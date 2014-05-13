@@ -91,7 +91,7 @@ plot(avgStepsPer5mins, type = "l", xlab = "5-minute interval", ylab = "average n
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
 
-The 5-minute interval which on average across all the days in the dataset that contains the maximum number of steps is 8:30-8:35am.
+The 5-minute interval which on average across all the days in the dataset that contains the maximum number of steps is about 8:30-8:35am.
 
 ## Imputing missing values
 The total number of rows with missing data is:
